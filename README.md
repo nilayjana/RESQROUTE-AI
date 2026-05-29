@@ -81,7 +81,4 @@ RESQROUTE-AI/
 - 🗺️ **Offline-first Design**  
 - 🔒 **Lightweight & Secure**  
 
----
-
-
-Would you like me to also **design a visual diagram (architecture flow)** for RESQROUTE-AI, showing how GPS, SQLite POI DB, and traffic prediction interact? That would make your README even more compelling.
+.
